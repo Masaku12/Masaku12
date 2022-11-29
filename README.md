@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Masaku12
-- 👀 I’m interested in HTML, CSS, & Javascript.
+- 👀 I’m interested in C, Javascript, Python & SQL/MySQL.
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on Front-end projects
+- 💞️ I’m looking to collaborate on Back-end projects
 - 📫 How to reach me on email; ambrose.matata11@gmail.com
 
 <!---
