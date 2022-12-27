@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Masaku12
 - 👀 I’m interested in C, Javascript, Python & SQL/MySQL.
-- 🌱 I’m currently learning Variables in C.
+- 🌱 I’m currently learning Nested Loops, Pointers, and Arrays/Strings in C.
 - 💞️ I’m looking to collaborate on Back-end projects
 - 📫 How to reach me on email; ambrose.matata11@gmail.com
 
