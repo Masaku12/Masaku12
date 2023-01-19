@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ambrose Matata.
 - 👀 I’m interested in C, Javascript, Python & SQL/MySQL.
 - 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on Back-end projects
+- 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me on email; ambrose.matata11@gmail.com
 
 <!---
