@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ambrose Matata.
 - 👀 I’m interested in C, Javascript, Python & SQL/MySQL.
-- 🌱 I’m currently learning Recursion and Static Libraries in C.
+- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on Back-end projects
 - 📫 How to reach me on email; ambrose.matata11@gmail.com
 
