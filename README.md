@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Bash and C.**
+- 💬 Ask me about **Linux and C.**
 
 - 📫 How to reach me **ambrose.matata11@gmail.com**
 
