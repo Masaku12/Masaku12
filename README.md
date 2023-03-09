@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/matata_ambrose" target="blank"><img src="https://img.shields.io/twitter/follow/matata_ambrose?logo=twitter&style=for-the-badge" alt="matata_ambrose" /></a> </p>
 
-- 🔭 I’m currently working on [Data Structures](https://github.com/Masaku12/simple_shell)
+- 🔭 I’m currently working on [Data Structures](https://www.hackerrank.com/domains/data-structures)
 
 - 🌱 I’m currently learning **Python**
 
