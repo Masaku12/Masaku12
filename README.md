@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ambrose Matata</h1>
-<h3 align="center">A passionate engineer pursuing the backend path.</h3>
+<h3 align="center">An ambitious engineer pursuing the backend path.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masaku12&label=Profile%20views&color=0e75b6&style=flat" alt="masaku12" /> </p>
 
